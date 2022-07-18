@@ -1,4 +1,4 @@
-set(PROJECT qmpanel)
+set(PROJECT quepanel)
 
 set(SOURCES
     actionview.cpp
